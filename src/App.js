@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        Bye there! -- changed
+        I was changed on the feature branch
       </p>
     </div>
   );
